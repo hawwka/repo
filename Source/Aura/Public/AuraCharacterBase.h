@@ -6,6 +6,9 @@
 #include "GameFramework/Character.h"
 #include "AuraCharacterBase.generated.h"
 
+
+// Comment for testing git
+
 UCLASS()
 class AURA_API AAuraCharacterBase : public ACharacter
 {
